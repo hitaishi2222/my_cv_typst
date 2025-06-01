@@ -1,0 +1,192 @@
+hitaishiBroadbandSupercontinuumGeneration2023c:
+  type: article
+  title: Broadband {Supercontinuum Generation Using Dispersion Engineered As}₂{Se}₃-{GeAsSe-GeAsS Waveguide} at 6 $mu$m
+  author:
+  - Hitaishi, V.
+  - Ashok, Nandam
+  date: 2023
+  page-range: 12294-12302
+  url:
+    value: https://ieeexplore.ieee.org/document/10038479/
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1109/ACCESS.2023.3242692
+    issn: 2169-3536
+  parent:
+    type: periodical
+    title: IEEE Access
+    volume: 11
+hitaishiDesignAnalysisChalcogenide2023c:
+  type: anthos
+  title: Design and {Analysis} of {Chalcogenide GeAsSe Waveguide} for {Dispersion Properties}
+  author:
+  - Hitaishi, V.
+  - Jayakrishnan, K.
+  - Ashok, Nandam
+  date: 2023
+  editor:
+  - Rao, N. Madhusudhana
+  - Lingamallu, Giribabu
+  - Agarwal, Mangilal
+  page-range: 87-96
+  url:
+    value: https://link.springer.com/10.1007/978-981-99-1616-0_9
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1007/978-981-99-1616-0_9
+    isbn: 978-981-99-1615-3 978-981-99-1616-0
+  parent:
+    type: anthology
+    title: Advanced {Nanomaterials} and {Their Applications}
+    publisher:
+      name: Springer Nature Singapore
+      location: Singapore
+    volume: 22
+hitaishiEffectsWaveguideDimensions2025:
+  type: article
+  title: Effects of Waveguide Dimensions on Split-Core Optical Waveguide for Dispersion and Supercontinuum Applications
+  author:
+  - Hitaishi, V.
+  - Kulanthaivel, Jayakrishnan
+  - Ashok, Nandam
+  date: 2025-06
+  page-range: '71'
+  url:
+    value: https://link.springer.com/10.1007/s10825-025-02311-8
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1007/s10825-025-02311-8
+    issn: 1569-8025, 1572-8137
+  parent:
+    type: periodical
+    title: Journal of Computational Electronics
+    issue: 3
+    volume: 24
+hitaishiInvertedRibCoreChalcogenide2023:
+  type: article
+  title: Inverted {Rib-Core Chalcogenide Waveguide} for {Supercontinuum Generation}
+  author:
+  - Hitaishi, V
+  - K, Jayakrishnan
+  - Ashok, Nandam
+  date: 2023-12-07
+  page-range: 1-3
+  url:
+    value: https://ieeexplore.ieee.org/document/10712858/
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1109/WRAP59682.2023.10712858
+    isbn: 979-8-3503-4083-9
+  parent:
+  - type: proceedings
+    title: 2023 {IEEE Workshop} on {Recent Advances} in {Photonics} ({WRAP})
+    publisher:
+      name: IEEE
+      location: Prayagraj, India
+  - type: conference
+    title: 2023 {IEEE Workshop} on {Recent Advances} in {Photonics} ({WRAP})
+hitaishiMidIRSupercontinuumGeneration2024c:
+  type: article
+  title: Mid-{IR} Supercontinuum Generation Using a Slab with {D-shaped}/Semi-Ellipse Core Waveguide at 4μm
+  author:
+  - Hitaishi, V.
+  - Nandam, Ashok
+  date: 2024-01
+  page-range: '114668'
+  url:
+    value: https://linkinghub.elsevier.com/retrieve/pii/S0925346723012405
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1016/j.optmat.2023.114668
+    issn: '09253467'
+  parent:
+    type: periodical
+    title: Optical Materials
+    volume: 147
+hitaishiStudySupercontinuumGeneration2024a:
+  type: article
+  title: Study of Supercontinuum Generation in Etch-Coated Tellurium Based Chalcogenide Waveguide
+  author:
+  - Hitaishi, V
+  - Kulanthaivel, Jayakrishnan
+  - Ashok, Nandam
+  date: 2024-11-03
+  page-range: '1814'
+  url:
+    value: https://link.springer.com/10.1007/s11082-024-07743-3
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1007/s11082-024-07743-3
+    issn: 1572-817X
+  parent:
+    type: periodical
+    title: Optical and Quantum Electronics
+    issue: 11
+    volume: 56
+kulanthaivelMetalDBRInterfaceStructureBased2023:
+  type: article
+  title: A {Metal-DBR Interface Structure-Based Tamm Plasmon Sensor} for {Refractive Index Sensing Applications}
+  author:
+  - Kulanthaivel, Jayakrishnan
+  - Hitaishi, V
+  - Nandam, Ashok
+  date: 2023-12-07
+  page-range: 1-3
+  url:
+    value: https://ieeexplore.ieee.org/document/10712807/
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1109/WRAP59682.2023.10712807
+    isbn: 979-8-3503-4083-9
+  parent:
+  - type: proceedings
+    title: 2023 {IEEE Workshop} on {Recent Advances} in {Photonics} ({WRAP})
+    publisher:
+      name: IEEE
+      location: Prayagraj, India
+  - type: conference
+    title: 2023 {IEEE Workshop} on {Recent Advances} in {Photonics} ({WRAP})
+kulanthaivelSlotWaveguideMicroring2022a:
+  type: article
+  title: Slot Waveguide Microring Resonator Based on Silicon Nitride for Refractive Index Sensing
+  author:
+  - Kulanthaivel, Jayakrishnan
+  - Hitaishi, V
+  - Ashok, N.
+  date: 2022-04-28
+  page-range: 1-3
+  url:
+    value: https://ieeexplore.ieee.org/document/9828972/
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1109/5NANO53044.2022.9828972
+    isbn: 978-1-6654-3728-8
+  parent:
+  - type: proceedings
+    title: 2022 {IEEE International Conference} on {Nanoelectronics}, {Nanophotonics}, {Nanomaterials}, {Nanobioscience} & {Nanotechnology} ({5NANO})
+    publisher:
+      name: IEEE
+      location: Kottayam, India
+  - type: conference
+    title: 2022 {IEEE International Conference} on {Nanoelectronics}, {Nanophotonics}, {Nanomaterials}, {Nanobioscience} & {Nanotechnology} ({5NANO})
+kulanthaivelTammFanoResonanceGlucose2024a:
+  type: article
+  title: A {Tamm-Fano} Resonance Glucose Sensor Based on {Cu} and Distributed Bragg Reflector Plasmonic Coupling Interface in the near-Infrared Regime
+  author:
+  - Kulanthaivel, Jayakrishnan
+  - Hitaishi, V.
+  - Ashok, Nandam
+  date: 2024-09-12
+  page-range: '1538'
+  url:
+    value: https://link.springer.com/10.1007/s11082-024-07396-2
+    date: 2025-05-05
+  serial-number:
+    doi: 10.1007/s11082-024-07396-2
+    issn: 1572-817X
+  parent:
+    type: periodical
+    title: Optical and Quantum Electronics
+    issue: 9
+    volume: 56
+
