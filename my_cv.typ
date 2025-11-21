@@ -35,13 +35,13 @@
 #let info = [
   #line(length: 100%, stroke: 1.5pt)
   #v(0.5cm)
-  #text(weight: "semibold", [Ph.D Scholar]) \
-  Department of Physics, \
-  #link("vitap.ac.in")[VIT-AP University], Amaravathi, \
-  Andhra Pradesh - 522241\
+  // #text(weight: "semibold", [Researcher]) \
+  // #link("vitap.ac.in")[VIT-AP University], Amaravathi, \
+  Gandhi Nagar, Turuvekere \
+  Karnataka, India - 572227\
+    #h(4pt) web: #link("hitaishiv.com") \
     #h(2pt)+91-9738092501\
-   #h(4pt) #link("hitaishiv.com") \
-   #h(4pt) #link( "mailto:hello@hitaishiv.com" ),
+    #h(4pt) #link( "mailto:hello@hitaishiv.com" ),
   #link( "mailto:hitaishi2222@gmail.com" )\
   #v(0.5cm)
 ]
@@ -65,7 +65,7 @@
   #set text(fill: white)
   #v(0.5cm)
   #head("  " , "Education", right: false)
-  #edu("2021 - present",
+  #edu("2021 - 2025",
     "Ph.D", [
     Nonlinear optics \
     & Photonics\
@@ -98,6 +98,8 @@
   Rust, MATLAB etc. Eager to apply these skills to further
   explore exploration and research in the field of photonics and
   lasers.
+
+  I have been learning photonics based softwares like GDS Factory, Femwell and MEEP for better understanding and relaiable open-source alternatives.
 ]
 
 #let publications = [
@@ -107,7 +109,7 @@
 
 #let first_page_right = {[
   #v(1in)
-  #text(size: 55pt, weight: "medium" ,"Hitaishi V")
+  #text(size: 49pt, weight: "medium" ,"Dr. Hitaishi V")
   #v(-1.5cm)
   #info
   #line(length: 100%, stroke: 1.5pt)
