@@ -3,7 +3,8 @@
 #set par(justify: true)
 #set list(marker: " ")
 
-#let bg_color = "#39393D" // gray BG
+// #let bg_color = "#39393D" // gray BG
+#let bg_color = "#373E4D" // blue
 // #let bg_color = "#3D365C" // purple BG
 
 #let head(icon, name, right: true) = box([
@@ -71,7 +72,7 @@
     & Photonics\
     VIT-AP University, AP, India
   ])
-  #edu("2021", "Gate Qualified", "82 percentile" )
+  #edu("2021-2024", "Gate Qualified", "82 percentile" )
   #edu("2018 - 2020",
     "Master of Science (Physics)",
     "JSS College of Arts, Commerce & Science, Ooty Road, Mysuru" )
@@ -121,7 +122,7 @@
   columns: (1.5fr, 2.5fr), [ 
     #grid(
       rows: (1fr, auto),
-        image("DSC_0147.JPG", width: 100%),
+        image("DSC_4271.JPG", width: 100%),
         rect(width: 100%, fill: rgb(bg_color), 
           // stroke: (x: 1pt + rgb("#39393D")),
           height: 21cm, inset: (x: 1cm),
@@ -139,11 +140,12 @@
 
 #let skills = {
   head(" 󰁷 ", "Skills" , right: false)
-  grid(columns: (1.5fr, 1fr),
+  grid(columns: (1.7fr, 1fr),
     [
     Python\
     MATLAB\
     Ansys Lumerical\
+    Linux\
     Latex\
     Typst\
     COMSOL\
@@ -153,6 +155,7 @@
   ],[
          \
          \
+        \
         \
         \
         \
@@ -166,13 +169,14 @@
 #let details_block(heading, detail) = block[
   #text(style: "italic", fill: white.transparentize(50%))[#heading]\
   #detail
-  #v(0.5cm)
+  #v(0.3cm)
 ]
 
 #let persoal_details = block[
   #head(" 󱍲 ", "About Me", right: false)
   #details_block("Father name", "Virupaksha")
   #details_block("Gender", "Male")
+  #details_block("Marital status", "Married")
   #details_block("Date of birth", "13/01/1998")
   #details_block("Nationality", "Indian")
   #details_block("Languages known", "English, Hindi, Kannada")
